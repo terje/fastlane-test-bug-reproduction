@@ -13,6 +13,6 @@ To run the tests successfully on newer iOS versions only:
 To run the tests on iOS 9.3 and iOS 10.3.1 in parallel, demonstrating
 the bug:
 
-    bundle exec fastlane workingtest
+    bundle exec fastlane test
 
 The corresponding Simulators must be installed before attempting this.
